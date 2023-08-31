@@ -26,7 +26,7 @@ Created using flask and sqlconnector.
 ###  New York Test Score Analysis
   <!--* **View Project:**  http://www.insertpage.com-->
   
-<img align="right" height="270" width="350px" src="https://files.catbox.moe/ycbpnf.png" alt="html" style="vertical-align:top; margin:4px">  
+<img align="right" height="370" width="450px" src="https://files.catbox.moe/ycbpnf.png" alt="html" style="vertical-align:top; margin:4px">  
   
   * **Link:**  https://nytests.netlify.app/
   * **Description:**  An in-depth analysis on 2012 test scores in New York, including AP tests, SATs, and other state tests/metrics.
