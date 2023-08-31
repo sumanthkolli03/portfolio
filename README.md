@@ -53,7 +53,7 @@ Created in python, runs using google-cloud-translate Package.
   * **Repository:**  https://github.com/sumanthkolli03/mudaeKivy
   * **Description:** Created a UI to interact with an existing discord bot to manipulate the user's inventory.
 Created in python, runs using the Kivy Package.
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ### Mojave Region Invasive Grass Time Series Analysis
   <!--* **View Project:**  http://www.insertpage.com-->
   
