@@ -51,8 +51,7 @@ Created in python, runs using google-cloud-translate Package.
 <img align="right" height="270" width="350px" src="https://files.catbox.moe/etqc25.gif" alt="html" style="vertical-align:top; margin:4px">  
   
   * **Repository:**  https://github.com/sumanthkolli03/mudaeKivy
-  * **Description:**  A simple browser-based SQL database viewer.
-Created a UI to interact with an existing discord bot to manipulate the user's inventory.
+  * **Description:** Created a UI to interact with an existing discord bot to manipulate the user's inventory.
 Created in python, runs using the Kivy Package.
 <br/><br/><br/><br/><br/><br/><br/><br/>
 ### Mojave Region Invasive Grass Time Series Analysis
