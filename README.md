@@ -11,8 +11,7 @@
 ###  SQL web viewer/editor
   <!--* **View Project:**  http://www.insertpage.com-->
   
-<img align="right" height="270" width="450px" src="![image](https://github.com/sumanthkolli03/portfolio/assets/108901380/9c64f695-1a55-4ea3-9e6d-e42a60f6fbea)
-" alt="html" style="vertical-align:top; margin:4px">  
+<img align="right" height="270" width="450px" src="https://github.com/sumanthkolli03/portfolio/assets/108901380/9c64f695-1a55-4ea3-9e6d-e42a60f6fbea" alt="html" style="vertical-align:top; margin:4px">  
   
   * **Repository:**  https://github.com/sumanthkolli03/sqlviewer
   * **Description:**  A simple browser-based SQL database viewer.
