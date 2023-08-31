@@ -26,12 +26,14 @@ Created using flask and sqlconnector.
 ###  New York Test Score Analysis
   <!--* **View Project:**  http://www.insertpage.com-->
   
-<img align="right" height="270" width="450px" src="https://files.catbox.moe/ycbpnf.png" alt="html" style="vertical-align:top; margin:4px">  
+<img align="right" height="270" width="350px" src="https://files.catbox.moe/ycbpnf.png" alt="html" style="vertical-align:top; margin:4px">  
   
   * **Link:**  https://nytests.netlify.app/
   * **Description:**  An in-depth analysis on 2012 test scores in New York, including AP tests, SATs, and other state tests/metrics.
 Data was collected from data.gov and from 2012 test websites. 
 Analysis was performed in python, mostly using matplotlib and pandas.
+
+<br/><br/><br/><br/><br/><br/>
 
 ###  Google Translator API
   <!--* **View Project:**  http://www.insertpage.com-->
@@ -41,10 +43,12 @@ Analysis was performed in python, mostly using matplotlib and pandas.
 Uses Google's cloud API to translate the source text (needs a working API key).
 Created in python, runs using google-cloud-translate Package.
 
+<br/><br/>
+
 ###  Mudae-Kivy Manager
   <!--* **View Project:**  http://www.insertpage.com-->
   
-<img align="right" height="270" width="450px" src="https://files.catbox.moe/vledhk.png" alt="html" style="vertical-align:top; margin:4px">  
+<img align="right" height="270" width="350px" src="https://files.catbox.moe/etqc25.gif" alt="html" style="vertical-align:top; margin:4px">  
   
   * **Repository:**  https://github.com/sumanthkolli03/mudaeKivy
   * **Description:**  A simple browser-based SQL database viewer.
@@ -54,7 +58,7 @@ Created in python, runs using the Kivy Package.
 ### Mojave Region Invasive Grass Time Series Analysis
   <!--* **View Project:**  http://www.insertpage.com-->
   
-<img align="right" height="270" width="450px" src="https://files.catbox.moe/36hrjh.png" alt="html" style="vertical-align:top; margin:4px">  
+<img align="right" height="270" width="400px" src="https://files.catbox.moe/36hrjh.png" alt="html" style="vertical-align:top; margin:4px">  
   
   * **Link:**  https://drive.google.com/file/d/16XS7o0pXqhBd8DIxHXZM4lQA3pAHK3Dh/view?usp=sharing
   * **Description:**  An in-depth analysis on invasive species Bromus Rubens in the Mojave region from 2013 until present.
