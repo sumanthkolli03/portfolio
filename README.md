@@ -80,6 +80,7 @@ Tasklist:
 3) **Use tensorflow/keras to create a neural net to recognize specifically small champion icons in the stats page**
 5) Allow model to be updatable by calling riot's champion icon api
 6) use outputted champion data along with text-based data to create a bson for mongodb
+----Quality of Life----
 7) make everything seamless - allow one input of an image (or two) to output directy to mongodb
 8) make the steps above work with any size of image
 9) make sure the output is amennable with riot's api response
