@@ -63,3 +63,26 @@ Created in python, runs using the Kivy Package.
   * **Description:**  An in-depth analysis on invasive species Bromus Rubens in the Mojave region from 2013 until present.
 Data was collected from NOAA, USDAFS, and data.gov.
 Poster was presented at the 2023 Baylor Data Science conference.
+
+
+### --WIP-- Customs Database Bot for League of Legends Customs Games
+  <!--* **View Project:**  http://www.insertpage.com-->
+  
+  
+  * **Repository:**
+  *coming soon*
+  * **Description:**  A discord bot and standalone application that takes screenshots of league of legends customs games and outputs formatted, api-readable data to a database. Created to make up for Riot's lack of custom game histories and api calls. Should end up in the same format as an api response from riot, as to allow seamless integration with existing programs
+
+
+Tasklist:  
+1) ~~Use Tesseract OCR to read in all the text-based data from the stats screen.~~
+2) ~~Separate and prepare text-based data in python.~~
+3) **Use tensorflow/keras to create a neural net to recognize specifically small champion icons in the stats page**
+5) Allow model to be updatable by calling riot's champion icon api
+6) use outputted champion data along with text-based data to create a bson for mongodb
+7) make everything seamless - allow one input of an image (or two) to output directy to mongodb
+8) make the steps above work with any size of image
+9) make sure the output is amennable with riot's api response
+10) package the entirity above in a discord bot
+
+
