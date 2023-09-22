@@ -64,7 +64,7 @@ Created in python, runs using the Kivy Package.
 Data was collected from NOAA, USDAFS, and data.gov.
 Poster was presented at the 2023 Baylor Data Science conference.
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 ### --WIP-- Customs Database Bot for League of Legends Customs Games
@@ -77,16 +77,16 @@ Poster was presented at the 2023 Baylor Data Science conference.
 
 
 Tasklist:  
-1) ~~Use Tesseract OCR to read in all the text-based data from the stats screen.~~
-2) ~~Separate and prepare text-based data in python.~~
-3) **Use tensorflow/keras to create a neural net to recognize specifically small champion icons in the stats page**  
-  Test Model and get > 98% accuracy
-4) Allow model to updatable by calling riot's champion icon api
-5) use outputted champion data along with text-based data to create a bson for mongodb  
+1.  ~~Use Tesseract OCR to read in all the text-based data from the stats screen.~~
+2.  ~~Separate and prepare text-based data in python.~~
+3.  **Use tensorflow/keras to create a neural net to recognize specifically small champion icons in the stats page**  
+&nbsp;&nbsp;&nbsp; 3A.  Test Model and get > 98% accuracy
+5.  Allow model to updatable by calling riot's champion icon api
+6.  use outputted champion data along with text-based data to create a bson for mongodb  
 ----Quality of Life----
-6) make everything seamless - allow one input of an image (or two) to output directy to mongodb
-7) make the steps above work with any size of image
-8) make sure the output is amennable with riot's api response
-9) package the entirity above in a discord bot
+7.  make everything seamless - allow one input of an image (or two) to output directy to mongodb
+8.  make the steps above work with any size of image
+9.  make sure the output is amennable with riot's api response
+10.  package the entirity above in a discord bot
 
 
