@@ -45,7 +45,7 @@ Analysis was performed in python, mostly using matplotlib and pandas.
 Data was collected from NOAA, USDAFS, and data.gov.
 Poster was presented at the 2023 Baylor Data Science conference.
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 ###  Mudae-Kivy Manager
   <!--* **View Project:**  http://www.insertpage.com-->
