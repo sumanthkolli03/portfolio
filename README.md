@@ -35,16 +35,6 @@ Analysis was performed in python, mostly using matplotlib and pandas.
 
 <br/><br/><br/><br/><br/><br/>
 
-###  Google Translator API
-  <!--* **View Project:**  http://www.insertpage.com-->
-  
-  * **Repository:**  https://github.com/sumanthkolli03/translator
-  * **Description:**  A command-line based python program that reads from a file, auto-detects language, translates and writes to a file.
-Uses Google's cloud API to translate the source text (needs a working API key).
-Created in python, runs using google-cloud-translate Package.
-
-<br/><br/>
-
 ### Mojave Region Invasive Grass Time Series Analysis
   <!--* **View Project:**  http://www.insertpage.com-->
   
@@ -66,6 +56,16 @@ Poster was presented at the 2023 Baylor Data Science conference.
   * **Description:** Created a UI to interact with an existing discord bot to manipulate the user's inventory.
 Created in python, runs using the Kivy Package.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+###  Google Translator API
+  <!--* **View Project:**  http://www.insertpage.com-->
+  
+  * **Repository:**  https://github.com/sumanthkolli03/translator
+  * **Description:**  A command-line based python program that reads from a file, auto-detects language, translates and writes to a file.
+Uses Google's cloud API to translate the source text (needs a working API key).
+Created in python, runs using google-cloud-translate Package.
+
+<br/><br/>
 
 
 ### --WIP-- Customs Database Bot for League of Legends Customs Games
