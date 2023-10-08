@@ -45,15 +45,6 @@ Created in python, runs using google-cloud-translate Package.
 
 <br/><br/>
 
-###  Mudae-Kivy Manager
-  <!--* **View Project:**  http://www.insertpage.com-->
-  
-<img align="right" height="370" width="450px" src="https://files.catbox.moe/etqc25.gif" alt="html" style="vertical-align:top; margin:4px">  
-  
-  * **Repository:**  https://github.com/sumanthkolli03/mudaeKivy
-  * **Description:** Created a UI to interact with an existing discord bot to manipulate the user's inventory.
-Created in python, runs using the Kivy Package.
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ### Mojave Region Invasive Grass Time Series Analysis
   <!--* **View Project:**  http://www.insertpage.com-->
   
@@ -64,6 +55,16 @@ Created in python, runs using the Kivy Package.
 Data was collected from NOAA, USDAFS, and data.gov.
 Poster was presented at the 2023 Baylor Data Science conference.
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+###  Mudae-Kivy Manager
+  <!--* **View Project:**  http://www.insertpage.com-->
+  
+<img align="right" height="370" width="450px" src="https://files.catbox.moe/etqc25.gif" alt="html" style="vertical-align:top; margin:4px">  
+  
+  * **Repository:**  https://github.com/sumanthkolli03/mudaeKivy
+  * **Description:** Created a UI to interact with an existing discord bot to manipulate the user's inventory.
+Created in python, runs using the Kivy Package.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
