@@ -47,6 +47,15 @@ Poster was presented at the 2023 Baylor Data Science conference.
 
 <br/><br/><br/><br/><br/><br/>
 
+
+###  Mountain Pine Beetle and Dissolved Organic Carbon Analysis
+  <!--* **View Project:**  http://www.insertpage.com-->
+  
+  * **Repository:**  https://github.com/sumanthkolli03/doc-analysis/blob/main/finalreport.pdf
+  * **Description:**  Exploration of https://doi.org/10.3390/w10040534 for DSC2300. Data was taken from the article, and all wrangling and visualization was done in R. 
+
+<br/><br/>
+
 ###  Mudae-Kivy Manager
   <!--* **View Project:**  http://www.insertpage.com-->
   
@@ -56,14 +65,6 @@ Poster was presented at the 2023 Baylor Data Science conference.
   * **Description:** Created a UI to interact with an existing discord bot to manipulate the user's inventory.
 Created in python, runs using the Kivy Package.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-###  Mountain Pine Beetle and Dissolved Organic Carbon Analysis
-  <!--* **View Project:**  http://www.insertpage.com-->
-  
-  * **Repository:**  https://github.com/sumanthkolli03/doc-analysis/blob/main/finalreport.pdf
-  * **Description:**  Exploration of https://doi.org/10.3390/w10040534 for DSC2300. Data was taken from the article, and all wrangling and visualization was done in R. 
-
-<br/><br/>
 
 
 ### --WIP-- Customs Database Bot for League of Legends Customs Games
