@@ -57,13 +57,11 @@ Poster was presented at the 2023 Baylor Data Science conference.
 Created in python, runs using the Kivy Package.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-###  Google Translator API
+###  Mountain Pine Beetle and Dissolved Organic Carbon Analysis
   <!--* **View Project:**  http://www.insertpage.com-->
   
-  * **Repository:**  https://github.com/sumanthkolli03/translator
-  * **Description:**  A command-line based python program that reads from a file, auto-detects language, translates and writes to a file.
-Uses Google's cloud API to translate the source text (needs a working API key).
-Created in python, runs using google-cloud-translate Package.
+  * **Repository:**  https://github.com/sumanthkolli03/doc-analysis/blob/main/finalreport.pdf
+  * **Description:**  Exploration of https://doi.org/10.3390/w10040534 for DSC2300. Data was taken from the article, and all wrangling and visualization was done in R. 
 
 <br/><br/>
 
