@@ -72,15 +72,15 @@ Poster was presented at the 2023 Baylor Data Science conference.
   
   
   * **Repository:**
-  *coming soon*
+  *coming soon* (on colab for now)
   * **Description:**  A discord bot and standalone application that takes screenshots of league of legends customs games and outputs formatted, api-readable data to a database. Created to make up for Riot's lack of custom game histories and api calls. Should end up in the same format as an api response from riot, as to allow seamless integration with existing programs
 
 
 Tasklist:  
 1.  ~~Use Tesseract OCR to read in all the text-based data from the stats screen.~~
 2.  ~~Separate and prepare text-based data in python.~~
-3.  **Use tensorflow/keras to create a neural net to recognize specifically small champion icons in the stats page**  
-&nbsp;&nbsp;&nbsp; 3A.  Test Model and get > 98% accuracy
+3.  ~~Use tensorflow/keras to create a neural net to recognize specifically small champion icons in the stats page~~  
+&nbsp;&nbsp;&nbsp; 3A.  **get > 98% accuracy**
 5.  ~~Allow model to updatable by calling riot's champion icon api~~
 6.  use outputted champion data along with text-based data to create a bson for mongodb  
 ----Quality of Life----
