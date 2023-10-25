@@ -9,7 +9,6 @@
 
 
 ###  SQL web viewer/editor
-  <!--* **View Project:**  http://www.insertpage.com-->
   
 <img align="right" height="270" width="450px" src="https://github.com/sumanthkolli03/portfolio/assets/108901380/9c64f695-1a55-4ea3-9e6d-e42a60f6fbea" alt="html" style="vertical-align:top; margin:4px">  
   
@@ -23,17 +22,15 @@ Created using flask and sqlconnector.
 <br/><br/><br/><br/><br/><br/>
 
 ###  S & P 500 Stock Prediction Neural Net
-  <!--* **View Project:**  http://www.insertpage.com-->
   
   * **Repository:**  *coming soon, 11/7/2023*
   * **Description:**  A neural net trained on data from the S&P 500 that is used to predict the price of individual stocks and the entire index fund.
 Created as part of a project for DSC 3344, in which a fellow student offers a project idea, and we complete it for them.
-Created using python, sk-learn, and data from yfinance (yahoo stocks)
+Created using python, sk-learn, and data from yfinance (yahoo stocks).
 
 <br/><br/><br/><br/><br/><br/>
 
 ###  New York Test Score Analysis
-  <!--* **View Project:**  http://www.insertpage.com-->
   
 <img align="right" height="270" width="350px" src="https://files.catbox.moe/ycbpnf.png" alt="html" style="vertical-align:top; margin:4px">  
   
@@ -45,7 +42,6 @@ Analysis was performed in python, mostly using matplotlib and pandas.
 <br/><br/><br/><br/><br/><br/>
 
 ### Mojave Region Invasive Grass Time Series Analysis
-  <!--* **View Project:**  http://www.insertpage.com-->
   
 <img align="right" height="270" width="400px" src="https://files.catbox.moe/36hrjh.png" alt="html" style="vertical-align:top; margin:4px">  
   
@@ -58,7 +54,6 @@ Poster was presented at the 2023 Baylor Data Science conference.
 
 
 ###  Mountain Pine Beetle and Dissolved Organic Carbon Analysis
-  <!--* **View Project:**  http://www.insertpage.com-->
   
   * **Repository:**  https://github.com/sumanthkolli03/doc-analysis/blob/main/finalreport.pdf
   * **Description:**  Exploration of https://doi.org/10.3390/w10040534 for DSC2300. Data was taken from the article, and all wrangling and visualization was done in R. 
@@ -66,7 +61,6 @@ Poster was presented at the 2023 Baylor Data Science conference.
 <br/><br/>
 
 ###  Mudae-Kivy Manager
-  <!--* **View Project:**  http://www.insertpage.com-->
   
 <img align="right" height="370" width="450px" src="https://files.catbox.moe/etqc25.gif" alt="html" style="vertical-align:top; margin:4px">  
   
@@ -77,7 +71,6 @@ Created in python, runs using the Kivy Package.
 
 
 ### --WIP-- Customs Database Bot for League of Legends Customs Games
-  <!--* **View Project:**  http://www.insertpage.com-->
   
   
   * **Repository:**
