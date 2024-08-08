@@ -21,14 +21,6 @@ Created using flask and sqlconnector.
 
 <br/><br/><br/><br/><br/><br/>
 
-### --WIP-- S & P 500 Stock Prediction Neural Net
-  
-  * **Repository:**  *coming soon, 11/7/2023*
-  * **Description:**  A neural net trained on data from the S&P 500 that is used to predict the price of individual stocks and the entire index fund.
-Created as part of a project for DSC 3344, in which a fellow student offers a project idea, and we complete it for them.
-Created using python, sk-learn, and data from yfinance (yahoo stocks).
-
-<br/><br/><br/><br/><br/><br/>
 
 ###  New York Test Score Analysis
   
