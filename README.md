@@ -33,7 +33,7 @@ Analysis was performed in python, mostly using matplotlib and pandas.
   
 <img align="right" height="270" width="400px" src="https://files.catbox.moe/36hrjh.png" alt="html" style="vertical-align:top; margin:4px">  
   
-  * **Link:**  https://drive.google.com/file/d/16XS7o0pXqhBd8DIxHXZM4lQA3pAHK3Dh/view?usp=sharing
+  * **Link:**  https://github.com/sumanthkolli03/Mojave
   * **Description:**  An in-depth analysis on invasive species Bromus Rubens in the Mojave region from 2013 until present.
 Data was collected from NOAA, USDAFS, and data.gov.
 Poster was presented at the 2023 Baylor Data Science conference.
