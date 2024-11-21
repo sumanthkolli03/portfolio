@@ -56,7 +56,7 @@ Poster was presented at the 2023 Baylor Data Science conference.
   
 <img align="right" height="370" width="450px" src="https://github.com/sumanthkolli03/portfolio/blob/main/wqi.png" alt="html" style="vertical-align:top; margin:4px">  
   
-  * **Repository:**  https://github.com/sumanthkolli03/mudaeKivy
+  * **Repository:**  https://github.com/sumanthkolli03/WQI
   * **Description:** An analysis on water quality measures recorded by the DOI and the NPS for rivers in North Dakota, creating an index for measuring water quality by using different dimensionality reduction techniques such as PCA and MDS. Presented as a part of DSC 4320.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
@@ -74,6 +74,7 @@ Tasklist:
 2.  ~~Separate and prepare text-based data in python.~~
 3.  ~~Use tensorflow/keras to create a neural net to recognize specifically small champion icons in the stats page~~  
 &nbsp;&nbsp;&nbsp; 3A.  **get > 98% accuracy**
+&nbsp;&nbsp;&nbsp; 3B.  modify images before-hand to have more robust training to weird screenshots
 5.  ~~Allow model to updatable by calling riot's champion icon api~~
 6.  use outputted champion data along with text-based data to create a bson for mongodb  
 ----Quality of Life----
