@@ -8,15 +8,11 @@
 * _Email: sumanthkolli03@gmail.com_
 
 
-###  SQL web viewer/editor
+###  Current Project: Mojo-based KNN  
   
-<img align="right" height="270" width="450px" src="https://github.com/sumanthkolli03/portfolio/assets/108901380/9c64f695-1a55-4ea3-9e6d-e42a60f6fbea" alt="html" style="vertical-align:top; margin:4px">  
-  
-  * **Repository:**  https://github.com/sumanthkolli03/sqlviewer
-  * **Description:**  A simple browser-based SQL database viewer.
-Can edit, drop, and create databases, tables, and will accept uploaded .sql data/query files.
-Created using flask and sqlconnector.
-
+  * **Repository:**
+  https://github.com/sumanthkolli03/MOJOKNN, may be outdated, is still being updated frequently.
+  * **Description:**  A mojo-only implementation of KNN, with the hopes to speed up the process compared to Python (and sk-learn). Written entirely in mojo. Created for a research lab under Dr. Henry Han.
 
 
 <br/><br/><br/><br/><br/><br/>
