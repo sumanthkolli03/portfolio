@@ -52,13 +52,12 @@ Poster was presented at the 2023 Baylor Data Science conference.
 
 <br/><br/>
 
-###  Mudae-Kivy Manager
+###  Water Quality in the Niobrara River - Using Dimensionality Reduction as a WQI
   
 <img align="right" height="370" width="450px" src="https://files.catbox.moe/etqc25.gif" alt="html" style="vertical-align:top; margin:4px">  
   
   * **Repository:**  https://github.com/sumanthkolli03/mudaeKivy
-  * **Description:** Created a UI to interact with an existing discord bot to manipulate the user's inventory.
-Created in python, runs using the Kivy Package.
+  * **Description:** An analysis on water quality measures recorded by the DOI and the NPS for rivers in North Dakota, creating an index for measuring water quality by using different dimensionality reduction techniques such as PCA and MDS. Presented as a part of DSC 4320.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
