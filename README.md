@@ -54,7 +54,7 @@ Poster was presented at the 2023 Baylor Data Science conference.
 
 ###  Water Quality in the Niobrara River - Using Dimensionality Reduction as a WQI
   
-<img align="right" height="370" width="450px" src="https://files.catbox.moe/etqc25.gif" alt="html" style="vertical-align:top; margin:4px">  
+<img align="right" height="370" width="450px" src="https://github.com/sumanthkolli03/portfolio/edit/main/wqi.png" alt="html" style="vertical-align:top; margin:4px">  
   
   * **Repository:**  https://github.com/sumanthkolli03/mudaeKivy
   * **Description:** An analysis on water quality measures recorded by the DOI and the NPS for rivers in North Dakota, creating an index for measuring water quality by using different dimensionality reduction techniques such as PCA and MDS. Presented as a part of DSC 4320.
