@@ -69,9 +69,9 @@ Tasklist:
 1.  ~~Use Tesseract OCR to read in all the text-based data from the stats screen.~~
 2.  ~~Separate and prepare text-based data in python.~~
 3.  ~~Use tensorflow/keras to create a neural net to recognize specifically small champion icons in the stats page~~  
-&nbsp;&nbsp;&nbsp; 3A.  **get > 98% accuracy**
-&nbsp;&nbsp;&nbsp; 3B.  modify images before-hand to have more robust training to weird screenshots
-&nbsp;&nbsp;&nbsp; 3C.  Fix edge cases by allowing user input if low confidence detected
+&nbsp;&nbsp;&nbsp; 3A.  **get > 98% accuracy**  
+&nbsp;&nbsp;&nbsp; 3B.  modify images before-hand to have more robust training to weird screenshots  
+&nbsp;&nbsp;&nbsp; 3C.  Fix edge cases by allowing user input if low confidence detected  
 5.  ~~Allow model to updatable by calling riot's champion icon api~~
 6.  use outputted champion data along with text-based data to create a bson for mongodb  
 ----Quality of Life----
